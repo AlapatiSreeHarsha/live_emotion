@@ -1,0 +1,9 @@
+Flask
+opencv-python
+numpy
+fer
+tensorflow
+moviepy
+mediapipe
+opencv-python-headless
+gunicorn
